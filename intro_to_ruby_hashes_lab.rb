@@ -14,7 +14,7 @@ end
 
 def pioneer
   
-  :name => 'Grace Hopper'
+  hash = {:name => 'Grace Hopper'}
   
 end
 
