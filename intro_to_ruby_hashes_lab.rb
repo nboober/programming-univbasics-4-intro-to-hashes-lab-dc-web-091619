@@ -36,10 +36,6 @@ def read_from_hash(hash, key)
     
     puts hash[key]
     
-  elsif hash[key]=== nil
-    
-    puts "nil"
-    
   end
   
 end
