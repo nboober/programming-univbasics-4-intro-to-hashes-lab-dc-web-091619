@@ -47,11 +47,11 @@ def update_counting_hash(hash, key)
   
   if hash[key]
     
-    hash[key] += key
+    return hash[key] += key
     
   else
     
-    hash[key] = 1
+    return hash[key] = 1
   
   end
   
