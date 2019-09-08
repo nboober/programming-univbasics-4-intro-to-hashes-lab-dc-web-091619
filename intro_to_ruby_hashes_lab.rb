@@ -34,11 +34,11 @@ def read_from_hash(hash, key)
   
   if hash[key] != nil
     
-    hash[key]
+    puts hash[key]
     
-  else if hash[key]=== nil
+  elsif hash[key]=== nil
     
-    "nil"
+    puts "nil"
     
   end
   
