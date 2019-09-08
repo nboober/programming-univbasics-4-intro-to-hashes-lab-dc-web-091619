@@ -32,8 +32,9 @@ end
 
 def read_from_hash(hash, key)
   
-  hash = {key}
+  hash = {}
   
+  hash[key]
   
 end
 
