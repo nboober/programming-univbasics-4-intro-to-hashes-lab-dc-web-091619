@@ -32,7 +32,7 @@ end
 
 def read_from_hash(hash, key)
   
-  if hash[key] != nil
+  if hash[key]
     
     puts hash[key]
     
