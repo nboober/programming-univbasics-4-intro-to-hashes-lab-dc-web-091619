@@ -32,9 +32,11 @@ end
 
 def read_from_hash(hash, key)
   
-  hash = {}
-  
-  hash[key]
+  if hash[key] != NIL
+    
+    hash[key]
+    
+  end
   
 end
 
