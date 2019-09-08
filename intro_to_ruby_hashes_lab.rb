@@ -36,9 +36,9 @@ def read_from_hash(hash, key)
     
     hash[key]
     
-  else if hash[key === nil]
+  else if hash[key]=== nil
     
-    
+    "nil"
     
   end
   
