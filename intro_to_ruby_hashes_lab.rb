@@ -14,7 +14,7 @@ end
 
 def pioneer
   
-  :name => 
+  :name => 'Grace Hopper'
   
 end
 
