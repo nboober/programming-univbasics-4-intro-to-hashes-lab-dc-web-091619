@@ -20,7 +20,7 @@ end
 
 def id_generator
   
-  hash = {key: 9}
+  hash = {:id => 9}
   
 end
 
